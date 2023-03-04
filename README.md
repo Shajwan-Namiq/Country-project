@@ -4,7 +4,12 @@
 ###### Filtering by Continent 
 ###### Searching by country name
 
-## Tools: HTML,Tailwind CSS, React js
+## Tools: 
+###### HTML 
+###### Tailwind 
+###### CSS
+###### React js
+
 
 ## Setup:  
 ###### git clone https://github.com/Shajwan-Namiq/Country-project
