@@ -6,7 +6,7 @@
 
 ## Tools: HTML,Tailwind CSS, React js
 
-## Setup: to start the development server
+## Setup:  
 ###### run npm i 
 ###### npm start 
 
