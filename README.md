@@ -7,6 +7,7 @@
 ## Tools: HTML,Tailwind CSS, React js
 
 ## Setup:  
+###### git clone 
 ###### run npm i 
 ###### npm start 
 
