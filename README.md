@@ -6,9 +6,10 @@
 
 ## Tools: HTML,Tailwind CSS, React js
 
-## Setup:
-###### run npm i && npm start 
-to start the development server
+## Setup: to start the development server
+###### run npm i 
+###### npm start 
+
 
 
 ## Deployment on Netlify
