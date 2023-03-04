@@ -67,7 +67,7 @@ const Loading =()=>{
     <>
       {loading ? (
         <>
-          <div className="bg-slate-900 h-screen">
+          <div className="bg-slate-900 min-h-screen">
             {/* title */}
             <h1 className="text-4xl text-white font-bold text-center pt-10">
               Find your Country
