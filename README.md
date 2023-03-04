@@ -13,7 +13,7 @@
 
 ## Setup:  
 ###### git clone https://github.com/Shajwan-Namiq/Country-project
-###### run npm i 
+###### npm i 
 ###### npm start 
 
 
