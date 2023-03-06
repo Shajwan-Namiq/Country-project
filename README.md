@@ -11,7 +11,7 @@
 
 ## Tools: 
 ###### HTML 
-###### Tailwind 
+###### Tailwind css
 ###### CSS
 ###### React js
 ###### REST API
